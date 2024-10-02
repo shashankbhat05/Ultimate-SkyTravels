@@ -2,10 +2,7 @@
 Ultimate Sky Travels is an interactive travel agency website designed to inspire wanderlust and simplify travel planning. The site provides users with a seamless browsing experience, showcasing various travel packages, destinations, and services.
 
 # Video Of Whole Website
-
 https://github.com/user-attachments/assets/9e2489f5-06b7-473b-a07e-6c3ac8b78270
-
-
 # Home Page
 ![Ultimate SkyTravels - Google Chrome 02-10-2024 09_19_56 PM](https://github.com/user-attachments/assets/ede80f9c-1c95-4c13-9297-6c6189d8fbf9)
 # Services Page
